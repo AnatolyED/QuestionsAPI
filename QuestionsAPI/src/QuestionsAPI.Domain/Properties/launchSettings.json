@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "QuestionsAPI.Domain": {
+      "commandName": "Project"
+    }
+  }
+}

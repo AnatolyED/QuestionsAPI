@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/QuestionsAPI.Contracts/QuestionsAPI.Contracts.csproj" Id="e5113c2e-707a-42a0-be5d-e660359b3c8a" />
     <Project Path="src/QuestionsAPI.Domain/QuestionsAPI.Domain.csproj" />
+    <Project Path="src/QuestionsAPI.Presenters/QuestionsAPI.Presenters.csproj" Id="4ec2f218-c8db-4002-ab25-31751d4bde6d" />
+    <Project Path="src/QuestionsAPI.Web/QuestionsAPI.Web.csproj" Id="924dd013-9fe9-493b-a08f-5424df2d4eb1" />
   </Folder>
 </Solution>
